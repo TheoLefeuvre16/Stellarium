@@ -1,1 +1,2 @@
-# Stellarium
+# Stelarium
+
